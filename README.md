@@ -1,4 +1,4 @@
-# Stemming and Lemmatization Project
+# Stemming and Lemmatization
 
 ## Introduction
 
